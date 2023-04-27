@@ -39,7 +39,20 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=danilaabramov)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilaabramov&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danilaabramov&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danilaabramov&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilaabramov&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danilaabramov&theme=solarized_dark)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilaabramov)](https://github.com/anuraghazra/github-readme-stats)
 <br>
