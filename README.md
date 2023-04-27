@@ -39,4 +39,4 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilaabramov)](https://github.com/danilaabramov/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilaabramov)](https://github.com/anuraghazra/github-readme-stats)
