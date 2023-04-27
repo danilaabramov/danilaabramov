@@ -1,7 +1,7 @@
 🛠️ Languages and Tools :
 <br>
 <br>
-<img height="32" width="32" src="https://e7.pngegg.com/pngimages/269/961/png-clipart-coffee-cup-cafe-coffee-label-material-java-logo-label-text.png" />
+<img height="32" width="32" src="https://cdn.discordapp.com/attachments/803259316420214796/1101281814343069767/pngegg.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
