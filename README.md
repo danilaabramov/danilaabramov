@@ -35,3 +35,5 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilaaabramov)](https://git.io/streak-stats)
