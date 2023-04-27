@@ -36,5 +36,5 @@
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilaabramov&layout=compact)](https://github.com/danilaabramov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilaabramov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
