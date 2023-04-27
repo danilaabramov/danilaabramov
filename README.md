@@ -16,9 +16,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/macos" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
 
