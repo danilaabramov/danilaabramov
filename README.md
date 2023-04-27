@@ -21,5 +21,5 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains" />
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/java" />
 
