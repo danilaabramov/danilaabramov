@@ -16,7 +16,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
