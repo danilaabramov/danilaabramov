@@ -40,3 +40,4 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilaabramov)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=danilaabramov)
