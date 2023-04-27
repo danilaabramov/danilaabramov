@@ -18,8 +18,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/lightblue" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
 <br>
