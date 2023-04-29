@@ -32,7 +32,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
