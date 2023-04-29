@@ -22,7 +22,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<br>
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
@@ -33,7 +33,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
-<br>
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
@@ -47,7 +47,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danilaabramov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilaabramov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danilaabramov&theme=solarized_dark)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilaabramov)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![](https://komarev.com/ghpvc/?username=danilaabramov)
