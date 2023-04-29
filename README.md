@@ -14,7 +14,7 @@
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
+<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" /> -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/lightblue" />
@@ -22,8 +22,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
@@ -33,8 +33,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
-<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
+<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
