@@ -11,7 +11,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
-<br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
@@ -22,7 +21,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
@@ -33,7 +31,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
-
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
