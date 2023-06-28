@@ -1,4 +1,4 @@
-🛠️ Main Languages and Tools :
+⭐️ Main Languages and Tools :
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
@@ -33,6 +33,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 <img height="32" width="32" src="https://cdn.discordapp.com/attachments/803259316420214796/1101281814343069767/pngegg.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
