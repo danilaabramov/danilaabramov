@@ -23,7 +23,6 @@
 <br>
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/pusher" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/lightblue" />
