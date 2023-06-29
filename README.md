@@ -48,7 +48,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 <br>
 
-🛠️ Currently learning :
+🎓 Currently learning :
 <br>
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
