@@ -1,7 +1,6 @@
 ⭐️ Main Languages and Tools :
 <br>
 <br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
@@ -19,8 +18,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules/lightblue" />
 <br>
 
