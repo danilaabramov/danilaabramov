@@ -51,9 +51,9 @@
 🛠️ Currently learning :
 <br>
 <br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss />
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilaabramov&theme=solarized_dark)
