@@ -4,13 +4,13 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tauri" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
