@@ -9,9 +9,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tauri" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/passport" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
@@ -27,6 +27,7 @@
 🛠️ Others Languages and Tools :
 <br>
 <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pusher" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/lightblue" />
