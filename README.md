@@ -3,6 +3,7 @@
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
@@ -19,6 +20,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2" />
@@ -41,6 +43,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
@@ -50,11 +53,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 <br>
 
-🎓 Currently learning :
+🎓 I want to study :
 <br>
 <br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/spring" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <br>
