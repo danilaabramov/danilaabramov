@@ -24,6 +24,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <br>
 
 🛠️ Others Languages and Tools :
