@@ -17,9 +17,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
@@ -30,6 +27,9 @@
 🛠️ Others Languages and Tools :
 <br>
 <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pusher" />
