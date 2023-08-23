@@ -8,6 +8,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/axios" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tauri" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
