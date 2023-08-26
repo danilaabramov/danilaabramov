@@ -17,6 +17,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/passport" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
@@ -31,9 +34,6 @@
 🛠️ Others Languages and Tools :
 <br>
 <br>
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
