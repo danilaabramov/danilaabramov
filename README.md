@@ -39,11 +39,13 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/socketdotio/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/eslint" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prettier" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/opencv" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" />
