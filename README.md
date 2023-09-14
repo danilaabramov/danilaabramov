@@ -62,6 +62,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/windows11" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 <br>
@@ -71,7 +72,7 @@
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/spring" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mobx" />
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilaabramov&theme=solarized_dark)
