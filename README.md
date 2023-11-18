@@ -2,7 +2,6 @@
 <br>
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
@@ -12,11 +11,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/axios" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tauri" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/passport" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
@@ -24,7 +20,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
@@ -34,6 +29,13 @@
 🛠️ Others Languages and Tools :
 <br>
 <br>
+<img height="32" width="32" src="https://cdn.simpleicons.org/cssmodules/lightblue" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tauri" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/passport" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/i18next" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/lightblue" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
