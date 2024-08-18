@@ -57,7 +57,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/spring" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" />
-<img height="32" width="32" src="https://cdn.discordapp.com/attachments/803259316420214796/1101281814343069767/pngegg.png" />
+<img height="32" width="32" src="https://img.icons8.com/?size=512&id=13679&format=png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
