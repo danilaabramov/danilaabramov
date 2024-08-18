@@ -67,8 +67,8 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/trello" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jetbrains/lightblue" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/windows11" />
+<img height="32" width="32" src="https://img.icons8.com/?size=512&id=ezj3zaVtImPg&format=png" />
+<img height="32" width="32" src="https://img.icons8.com/?size=512&id=M9BRw0RJZXKi&format=png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/macos/lightblue" />
 <br>
