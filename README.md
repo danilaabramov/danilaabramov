@@ -61,7 +61,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+<img height="32" width="32" src="https://img.icons8.com/?size=256&id=55251&format=png" />
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/trello" />
