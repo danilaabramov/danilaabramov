@@ -22,7 +22,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mariadb" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pm2" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 <br>
 
@@ -62,6 +61,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/qt" />
 <img height="32" width="32" src="https://img.icons8.com/?size=256&id=55251&format=png" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 <br>
 <img height="32" width="32" src="https://cdn.simpleicons.org/insomnia" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/trello" />
