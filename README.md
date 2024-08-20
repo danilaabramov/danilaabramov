@@ -83,7 +83,7 @@
 
 ![](https://komarev.com/ghpvc/?username=danilaabramov)
 [![https://t.me/danila_abramov](https://img.shields.io/badge/-%40danila_abramov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2danila_abramov)](https://t.me/danila_abramov)
-[![danila@abramov.pw](https://img.shields.io/badge/-danila%40abramov.pw-c14438?style=flat-square&logo=vk&logoColor=white&link=mailto%3Adanila%40abramov.pw)](mailto:danila@abramov.pw)
+[![danila@abramov.pw](https://img.shields.io/badge/-danila%40abramov.pw-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Adanila%40abramov.pw)](mailto:danila@abramov.pw)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilaabramov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danilaabramov&theme=solarized_dark)
